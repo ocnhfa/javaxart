@@ -10,6 +10,6 @@ class RPGMap {
   }
 
   RPGTile getTile(int x, int y) {
-	// TODO: 
+	// TODO: RPGMap.getTile
   }
 }
