@@ -14,9 +14,9 @@ class RPGTile {
 	// TODO
   }
 
-  static RPGTile MOUNTAIN = new RPGTile("mountain.png");
-  static RPGTile RIVER = new RPGTile("river.png");
-  static RPGTile GRASS = new RPGTile("grass.png");
-  static RPGTile ROCK = new RPGTile("rock.png");
-  static RPGTile RIVERSTONE = new RPGTile("riverstone.png");
+  static final RPGTile MOUNTAIN = new RPGTile("mountain.png");
+  static final RPGTile RIVER = new RPGTile("river.png");
+  static final RPGTile GRASS = new RPGTile("grass.png");
+  static final RPGTile ROCK = new RPGTile("rock.png");
+  static final RPGTile RIVERSTONE = new RPGTile("riverstone.png");
 }
