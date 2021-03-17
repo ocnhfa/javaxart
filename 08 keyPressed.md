@@ -1,4 +1,4 @@
-  if (keyPressed) {
-    view.moveAvatar(keyCode);        
-    view.drawView();
-  }
+      if (keyPressed) {
+        view.moveAvatar(keyCode);        
+        view.drawView();
+      }

@@ -1,3 +1,3 @@
-RPGMap map;
-RPGView view;
-RPGAvatar avatar;
+    RPGMap map;
+    RPGView view;
+    RPGAvatar avatar;
